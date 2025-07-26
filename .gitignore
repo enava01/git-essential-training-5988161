@@ -1,4 +1,4 @@
-npm-debug.log
+
 # Archivos de configuración de VSCode
 .vscode/
 
@@ -36,3 +36,5 @@ build/
 # Archivos de respaldo
 *.bak
 *.tmp
+
+
